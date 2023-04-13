@@ -81,6 +81,7 @@ ENTER
 REM Delete Log.txt and exit
 DELAY 3000
 STRING del Log.txt
+ENTER
 DELAY 500
 STRING exit
 ENTER
